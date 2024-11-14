@@ -16,3 +16,8 @@ I find that easier to do than having to remember to do <"h1"><"h1"> like in HTML
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+###### Practice adding a task list
+- [X] Create Task List
+- [X] Preview to make sure it rendered
+- [ ] Get dream job at GitHub
+      
